@@ -1,7 +1,7 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## Aim:
-To write a program to implement the the Logistic Regression Using Gradient Descent.
+To write a program to implement the Logistic Regression Using Gradient Descent.
 
 ## Equipments Required:
 1. Hardware – PCs
