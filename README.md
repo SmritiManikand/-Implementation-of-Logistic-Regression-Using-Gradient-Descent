@@ -61,6 +61,12 @@ J,grad=costFunction(theta,X_train,y)
 print(J)
 print(grad)
 
+X_train=np.hstack((np.ones((X.shape[0],1)),X))
+theta=np.array([-24,0.2,0.2])
+J,grad=costFunction(theta,X_train,y)
+print(J)
+print(grad)
+
 def cost (theta,X,y):
     h=sigmoid(np.dot(X,theta))
     J=-(np.dot(y,np.log(h))+np.dot(1-y,np.log(1-h)))/X.shape[0]
