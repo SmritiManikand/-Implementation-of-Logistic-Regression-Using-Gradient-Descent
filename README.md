@@ -114,7 +114,25 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 
+![s1](https://user-images.githubusercontent.com/113674204/233014484-2f3a4752-7087-4be3-9041-6dfa3f97956a.png)
 
+![s2](https://user-images.githubusercontent.com/113674204/233014575-e8820eec-2141-40b4-8c26-60abf5e8f178.png)
+
+![s3](https://user-images.githubusercontent.com/113674204/233014656-c3236920-6599-446a-974b-cc3bdf22fcca.png)
+
+![s4](https://user-images.githubusercontent.com/113674204/233014755-af50c63f-01d3-43a7-9d23-46828d8681e1.png)
+
+![s5](https://user-images.githubusercontent.com/113674204/233014821-33e19ee3-88c4-4367-b628-f62ba32d0ccc.png)
+
+![s6](https://user-images.githubusercontent.com/113674204/233014869-88f26db7-6230-45d3-a76d-27b9517ed8ea.png)
+
+![s7](https://user-images.githubusercontent.com/113674204/233014930-4e222536-3e94-48a7-8b98-7cb121523a82.png)
+
+![s8](https://user-images.githubusercontent.com/113674204/233014971-ef075700-a277-44a9-bd7c-5118f6b99699.png)
+
+![s9](https://user-images.githubusercontent.com/113674204/233015078-1ce206b5-fa20-481b-babe-88c7259dce84.png)
+
+![s10](https://user-images.githubusercontent.com/113674204/233015128-ae0fd5c3-ef99-4c8b-86f3-32eaaec87906.png)
 
 ## Result:
 Thus the program to implement the Logistic Regression Using Gradient Descent is written and verified using python programming.
